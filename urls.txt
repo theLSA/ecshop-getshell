@@ -1,0 +1,3 @@
+http://www.aaa.com.cn/user.php?act=login
+http://www.bbb.com/user.php?act=login
+http://www.ccc.com/user.php?act=login
