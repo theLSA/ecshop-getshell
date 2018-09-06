@@ -2,7 +2,7 @@ ecshop-getshell.py-ecshop rce getshell漏洞检测工具<br><br>
 ========
 
 # 概述<br>
-ecshop 2.x rce getshell漏洞，漏洞文件为user.php，由于$arr[id]和$arr[num]没有过滤导致SQL注入，进而可getshell，详情参考xxx<br>
+ecshop 2.x rce getshell漏洞，漏洞文件为user.php，由于$arr[id]和$arr[num]没有过滤导致SQL注入，进而可getshell，详情参考[ecshop2.x远程代码执行漏洞重现及分析](http://www.lsablog.com/networksec/penetration/ecshop2-x-rce-analysis/)<br>
 本工具支持单url，批量检测该漏洞。<br><br>
 
 # 快速开始<br>
